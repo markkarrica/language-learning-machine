@@ -1,11 +1,10 @@
-llm_provider: openai
+llm_provider: ollama
 # If using Ollama:
 ollama:
   model: llama3
   host: http://localhost:11434
 
-# If using OpenAI, uncomment this section and replace the key:
 openai:
   api_key: ""
-  model: qwen3.5
+  model: gpt4
   api_base: "http://localhost:8888/v1"
