@@ -1,5 +1,4 @@
 llm_provider: ollama
-# If using Ollama:
 ollama:
   model: llama3
   host: http://localhost:11434
