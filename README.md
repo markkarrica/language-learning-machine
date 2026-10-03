@@ -9,8 +9,12 @@ It provides a private, personalized, and stateful conversational practice partne
 
 This application is designed to be highly flexible, allowing you to switch between local (Ollama) and private (OpenAI compatible) LLM backends by modifying a configuration file.
 
-## Setup & Installation
+## Online demo
+You can run this with one click in colab!
+Just click this button and click on "Run all" to use this program!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cXtNI52bj3-qpIGi9wU4fhzbAK8RGx6W?usp=sharing)
 
+## Setup & Installation
 ### 1. Prerequisites
 *   **Python 3.x:** Ensure you have a modern Python environment.
 *   **Dependencies:** All necessary libraries are listed in `requirements.txt`.
